@@ -17,4 +17,6 @@ hashlib
 
 ## Screenshots
 
-![alt_text]()
+![alt_text](https://github.com/rhurst11/Module_18_Challenge/blob/main/Screenshots/Mod18ChallengPic2.png)
+
+![alt_text](https://github.com/rhurst11/Module_18_Challenge/blob/main/Screenshots/Mod18ChallengeScreenshot1.png)
